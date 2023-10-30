@@ -5,6 +5,8 @@
 - Studied at Rochester Institute of Technology
 - Experienced in healthcare administration fields
 
+<img src="https://raw.githubusercontent.com/micahyoung324/micahyoung324/master/trans_neon.gif" width="100%">
+
 ## Programming Languages I Am Comfortable With
 
 <div>
@@ -16,14 +18,14 @@
 
 But I am pretty flexible with anything!
 
-<br />
+<img src="https://raw.githubusercontent.com/micahyoung324/micahyoung324/master/trans_neon.gif" width="100%">
 
 ## Curring Doing:
 - Solving [Advent of Code](https://adventofcode.com) and [Project Euler](https://projecteuler.net) Problems
 - Helping with [humans.txt website](https://github.com/sebiboga/humans-txt)
 - Learning via small personal projects
 
-<br />
+<img src="https://raw.githubusercontent.com/micahyoung324/micahyoung324/master/trans_neon.gif" width="100%">
 
 ## Hobbies
 - Speedrunning
