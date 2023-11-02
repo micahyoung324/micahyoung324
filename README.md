@@ -31,7 +31,7 @@
 <img src="https://raw.githubusercontent.com/micahyoung324/micahyoung324/master/trans_neon.gif" width="100%">
 
 ## Curring Doing:
-- Solving [Advent of Code](https://adventofcode.com) and [Project Euler](https://projecteuler.net) Problems
+- Solving [Advent of Code](https://github.com/micahyoung324/Advent-Of-Code-Archive) and [Project Euler](https://github.com/micahyoung324/Project-Euler) Problems
 - Helping with [humans.txt website](https://github.com/sebiboga/humans-txt)
 - Learning via small personal projects
 
